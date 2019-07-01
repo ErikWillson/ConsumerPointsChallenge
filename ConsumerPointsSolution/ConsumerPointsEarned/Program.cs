@@ -33,6 +33,10 @@ namespace ConsumerPointsEarned
 
             // Print the results to console
             PrintResults();
+            
+            // End program when user is ready
+            Console.Write("Press any key to end program.");
+            Console.ReadLine();
         }
 
         private static void PrintResults()
