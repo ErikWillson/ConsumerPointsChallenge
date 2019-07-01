@@ -1,0 +1,11 @@
+E:\CSharpApplications\ConsumerPointsSolution\ConsumerPointsEarned\bin\Debug\ConsumerPointsEarned.exe.config
+E:\CSharpApplications\ConsumerPointsSolution\ConsumerPointsEarned\bin\Debug\ConsumerPointsEarned.exe
+E:\CSharpApplications\ConsumerPointsSolution\ConsumerPointsEarned\bin\Debug\ConsumerPointsEarned.pdb
+E:\CSharpApplications\ConsumerPointsSolution\ConsumerPointsEarned\obj\Debug\ConsumerPointsEarned.csprojAssemblyReference.cache
+E:\CSharpApplications\ConsumerPointsSolution\ConsumerPointsEarned\obj\Debug\ConsumerPointsEarned.csproj.CoreCompileInputs.cache
+E:\CSharpApplications\ConsumerPointsSolution\ConsumerPointsEarned\obj\Debug\ConsumerPointsEarned.exe
+E:\CSharpApplications\ConsumerPointsSolution\ConsumerPointsEarned\obj\Debug\ConsumerPointsEarned.pdb
+E:\CSharpApplications\ConsumerPointsSolution\ConsumerPointsEarned\bin\Debug\MyData.txt
+E:\CSharpApplications\ConsumerPointsSolution\ConsumerPointsEarned\bin\Debug\Newtonsoft.Json.dll
+E:\CSharpApplications\ConsumerPointsSolution\ConsumerPointsEarned\bin\Debug\Newtonsoft.Json.xml
+E:\CSharpApplications\ConsumerPointsSolution\ConsumerPointsEarned\obj\Debug\ConsumerPointsEarned.csproj.CopyComplete
